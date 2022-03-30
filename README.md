@@ -1,2 +1,2 @@
-# Estilismo_y_dise-o_de_imagen
-El estilismo y el dieño de imagen es algo muy importante para las personas y sobre todo para las mujeres.
+# Estilismo_y_diseño_de_imagen
+Es algo muy importante y bien visto por la sociedad.
