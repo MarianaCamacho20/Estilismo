@@ -18,9 +18,9 @@ html >
 < centro >
 < h2 > Índice </ h2 >
 </ centro >
-< li >  < a  href =" /Corte-de-Cabello.html " > Corte de Cabello </ a > </ li >
-< li >  < a  href =" /Peinado.html " > Peinado </ a > </ li >
-< li >  < a  href =" /Colorimetria.html " > Colorimetria </ a > </ li >
+< li >  < a  href ="/Corte-de-Cabello.html " > Corte de Cabello </ a > </ li >
+< li >  < a  href ="/Peinado.html " > Peinado </ a > </ li >
+< li >  < a  href ="/Colorimetria.html " > Colorimetria </ a > </ li >
 <li> <a href="/Maquillaje-de-Rostro.html"> Maquillaje de rostro </a></li>
 <li> <a href="/Transicion-capilar.html"> Transformacion de cabello </a></li>
   </div>
